@@ -25,6 +25,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
+
 <html>
 <head>
 <title>SLOT TIMETABLE</title>
@@ -37,13 +38,13 @@ Execute the program using runserver command.
 <table align="center" width="540" cellspaceing="2" cellpading="4" border="5" bgcolour="cyan">
 <caption><b>SLOT TIMETABLE - PRANAY N (2501770)</b></caption>
 <tr align="center">
-<th bgcolour="yellow">Day/Time</th>
-<th bgcolour="yellow">Monday</th>
-<th bgcolour="yellow">Tuesday</th>
-<th bgcolour="yellow">Wednesday</th>
-<th bgcolour="yellow">Thursday</th>
-<th bgcolour="yellow">friday</th>
-<th bgcolour="yellow">saturday</th>
+<th bgcolor="yellow">Day/Time</th>
+<th bgcolor="yellow">Monday</th>
+<th bgcolor="yellow">Tuesday</th>
+<th bgcolor="yellow">Wednesday</th>
+<th bgcolor="yellow">Thursday</th>
+<th bgcolor="yellow">friday</th>
+<th bgcolor="yellow">saturday</th>
 </tr>
 <tr align="center">
 <th bgcolour="yellow">8-10</th>
@@ -55,7 +56,7 @@ Execute the program using runserver command.
 <td>free</td>
 </tr>
 <tr align="center">
-<th bgcolour="yellow">10-12</th>
+<th bgcolor="yellow">10-12</th>
 <td>PYTHON PROGRAMMING</td>
 <td>COMMUNICATIVE ENGLISH</td>
 <td>COMMUNICATIVE ENGLISH</td>
@@ -64,7 +65,7 @@ Execute the program using runserver command.
 <td>COMMUNICATIVE ENGLISH</td>
 </tr>
 <tr align="center">
-<th bgcolour="yellow">1-3</th>
+<th bgcolor="yellow">1-3</th>
 <td>FUNDAMENTALS OF WEB APPLICATION</td>
 <td>FUNDAMENTALS OF WEB APPLICATION</td>
 <td>MENTOR MEET</td>
@@ -73,7 +74,7 @@ Execute the program using runserver command.
 <td>FREE</td>
 </tr>
 <tr align="center">
-<th bgcolour="yellow">3-5</th>
+<th bgcolor="yellow">3-5</th>
 <td>FREE</td>
 <td>FREE</td>
 <td>PYTHON PROGRAMMING</td>
